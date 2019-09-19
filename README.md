@@ -6,7 +6,7 @@
 
 ## 用法
 
-* [下载]()这个工具的库文件，并加入到你的项目的`classpath`路径中。
+* [下载](https://github.com/pengcheng789/super-simple-di4j/releases/tag/v0.1.0)这个工具的库文件，并加入到你的项目的`classpath`路径中。
 
 * 在需要注入的组件上使用`Component`注解。
   
