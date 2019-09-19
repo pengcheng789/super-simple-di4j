@@ -47,7 +47,7 @@
   
       public void main(String[] args) {
           // ...
-          SSimpleDI4jKt.ssimple4jInit();
+          SSimpleDI4jKt.ssimple4jInit(Main.class);
           // ...
           A a = SSimpleDI4jKt.getInstance(A.class);
           B b = SSimpleDI4jKt.getInstance(B.class);
